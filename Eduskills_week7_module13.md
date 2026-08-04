@@ -3278,8 +3278,6 @@ Preparation for the Next Lesson: Integrating and Testing the API
 
 In our next session, we will delve deeper into making our API production-ready. We will focus on:
 
-
-
 Structuring Flask Applications: Organizing your project into logical components for better maintainability.
 
 Handling Different Input Data Types: Expanding beyond simple numerical features to handle text, categorical data, and potentially multiple samples in a single request.
@@ -3293,8 +3291,6 @@ Production Deployment Considerations: Briefly touching upon concepts like WSGI s
 Best Practices for ML APIs: Reinforcing best practices for building reliable, scalable, and secure machine learning APIs.
 
 Practice Exercise:
-
-
 
 Try modifying the current API to handle a slightly different input structure. For example, imagine your model now requires a list of feature dictionaries instead of a single dictionary. How would you adapt the request.get\_json() parsing and the preprocessing loop?
 
