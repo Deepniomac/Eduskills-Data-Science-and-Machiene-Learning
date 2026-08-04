@@ -2,8 +2,6 @@
 
 **Part-1:**
 
-
-
 Introduction to ml pipelines
 
 Lesson visual
